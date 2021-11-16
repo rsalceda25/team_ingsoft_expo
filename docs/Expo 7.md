@@ -6,6 +6,29 @@
     <img src="/archivos/index/fesa.png" alt="drawing" width="200" style="width: 25%;"/>
 </div>
 
+## Estandares de calidad.
+# Usos
+El uso de estándares de calidad en el proceso de construcción de proyectos informáticos es 
+indispensable actualmente, y el incremento de empresas dedicadas a este ámbito ofrece múltiples 
+soluciones, lo que genera clientes cada vez más selectivos.
+
+# ¿pero qué es la calidad de software?
+“La concordancia con los requerimientos funcionales y de rendimiento explícitamente 
+establecidos, con los estándares de desarrollo documentados y con las características implícitas 
+que se esperan de todo software desarrollado profesionalmente” (Pressman, 2002).
+
+# ¿Qué definen y cuál es su propósito?
+Los estándares de calidad definen los criterios de desarrollo que conducen la forma en que lleva 
+la Ingeniería de Software, y tienen como propósito generar productos de software de alta calidad;
+los estándares suministran los medios para que todos los procesos se realicen de la misma forma 
+y son una guía para lograr la productividad y la calidad (Piattini, 2003).
+
+# Ejemplos de estándares de calidad.
+Un estándar de calidad de software reúne las actividades y hace que cada una se planee, controle 
+y ejecute de un modo sistemático. Algunos estándares son: ISO 90003, ISO 12207, ISO 15504 
+SPICE, IEE / EIA 12207, ISO 20000, ITIL, Cobit 4.0, ISO 25000 SQUARE, IEEE Std 1061-
+1998.
+
 ## Beneficios.
 * Mejora la calidad del software producido por la organización que adopta el modelo.
 * Eleva la capacidad de las organizaciones para ofrecer servicios con calidad y alcanzar niveles internacionales de competitividad.

@@ -79,7 +79,20 @@ Específico para el desarrollo y mantenimiento de Software.
  - Duxdiligents SA de CV  
  - Geoware SA de CV  
  - GRUPO DE INFORMÁTICA Y CONSTRUCCiÓN S.A. DE C.V.  
- - Infinitysoft Global IT Services   
- 
+ - Infinitysoft Global IT Services     
+Todas recurrieron a este certificado porque necesitaban cumplir con lo siguiente:  
+La norma mexicana NMX-I-059-NYCE, consta de las siguientes partes:
+1. NMX-I-059/01-NYCE: Definición de Conceptos y Productos. Contiene los conceptos y descripciones de productos usados en las otras partes de la norma.  
+2. NMX-I-059/02-NYCE: Requisitos de Procesos (MoProSoft). Establece los requisitos de los procesos a implantar en la organización a través del Modelo de Procesos de Software (MoProSoft.)  
+3. NMX-I-059/03-NYCE: Guía de Implantación de Procesos. Contiene una propuesta práctica de implantación de MoProSoft descrito en la parte 02.  
+4. NMX-I-059/04-NYCE: Directrices para la Evaluación de Procesos (EvalProSoft). Hace uso de la NMX-I-059/02-NYCEy del capítulo 5 de la NMX-I-15504/02-NYCE para obtener un Perfil del Nivel de Capacidad de los Procesos implantados en una organización y un Nivel de Madurez de Capacidades.  
+
+Para ver las empresas actuales con su respectivo nivel desde el primer registro en México del certificado recurriremos al siguiente link:  
+<https://www.nyce.org.mx/wp-content/uploads/2020/10/PADRON-DE-EMPRESAS-DICTAMINADAS-EN-LA-NORMA-NMX-I-059-NYCE-MoProSoft-02-10-2020.pdf>
+
 ## Conclusión 
 El modelo de procesos MoProSoft, está diseñado para las Micro, Pequeñas y Medianas empresas o áreas internas de desarrollo de software, por lo que su implantación no resulta ser muy complicada y no requiere una inversión muy alta, y a su vez los resultados y beneficios de implantar el modelo se pueden obtener en un corto y mediano plazo, con excelentes resultados. Por lo anterior, la implantación de MoProSoft tendrá como uno de sus principales beneficios el de mejorar la calidad del software desarrollado por la empresa. Por otra parte ayuda a las organizaciones a elevar la capacidad para ofrecer servicios de calidad, y esto a su vez les permite alcanzar niveles internacionales de competitividad.
+
+## Bibliografia  
+- EMPRESAS DICTAMINADAS EN LA NORMA NMX-I-059/02-NYCE (MoProSoft). (2020, 2 octubre). NYCE. Recuperado 7 de noviembre de 2021, de <https://www.nyce.org.mx/wp-content/uploads/2020/10/PADRON-DE-EMPRESAS-DICTAMINADAS-EN-LA-NORMA-NMX-I-059-NYCE-MoProSoft-02-10-2020.pdf>
+- Chimal, B. (s. f.). NMX-I-059/02--2016 (MoProSoft). NYCE. Recuperado 7 de noviembre de 2021, de <https://www.nyce.org.mx/nmx-i-059-02-nyce-2016-moprosoft/>

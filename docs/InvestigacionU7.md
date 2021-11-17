@@ -7,6 +7,19 @@
 </div>
 
 # MoProsoft  
+## ¿Qué es MoProSoft?  
+
+## Estructura  y procesos   
+Es un modelo para el desarrollo y mantenimiento de software que está enfocado en procesos considerando la estructura básica de una empresa, considerando tres niveles de organización: la Alta Dirección, Gerencia y Operación, de tal manera que el modelo pretende apoyar a las empresas de desarrollo y/o mantenimiento de software en la estandarización de sus prácticas, en la evaluación de su efectividad y en la integración de la mejora continua
+
++ Alta Dirección: contiene el proceso de Gestión de Negocio  
+
++ Gerencia o Gestión: contiene el proceso de gestion de Proyectos, Procesos y Recursos  
+
++ Operación: esta categoría contiene los procesos de Administración de Proyectos Específicos y el de Desarrollo y Mantenimiento de Software.  
+
+## Procesos que conforman MoProSoft  
+![Imagen procesos](https://conogasi.org/wp-content/uploads/2017/10/Procesos_MPS-1-768x465.jpg)  
 ## Estandares de calidad.
 #### Usos
 El uso de estándares de calidad en el proceso de construcción de proyectos informáticos es 
@@ -14,7 +27,7 @@ indispensable actualmente, y el incremento de empresas dedicadas a este ámbito 
 soluciones, lo que genera clientes cada vez más selectivos.
 
 #### ¿pero qué es la calidad de software?
-“La concordancia con los requerimientos funcionales y de rendimiento explícitamente 
+“La concordancia con los requerimientos funcionales y de srendimiento explícitamente 
 establecidos, con los estándares de desarrollo documentados y con las características implícitas 
 que se esperan de todo software desarrollado profesionalmente” (Pressman, 2002).
 
@@ -94,5 +107,6 @@ Para ver las empresas actuales con su respectivo nivel desde el primer registro 
 El modelo de procesos MoProSoft, está diseñado para las Micro, Pequeñas y Medianas empresas o áreas internas de desarrollo de software, por lo que su implantación no resulta ser muy complicada y no requiere una inversión muy alta, y a su vez los resultados y beneficios de implantar el modelo se pueden obtener en un corto y mediano plazo, con excelentes resultados. Por lo anterior, la implantación de MoProSoft tendrá como uno de sus principales beneficios el de mejorar la calidad del software desarrollado por la empresa. Por otra parte ayuda a las organizaciones a elevar la capacidad para ofrecer servicios de calidad, y esto a su vez les permite alcanzar niveles internacionales de competitividad.
 
 ## Bibliografia  
-- EMPRESAS DICTAMINADAS EN LA NORMA NMX-I-059/02-NYCE (MoProSoft). (2020, 2 octubre). NYCE. Recuperado 7 de noviembre de 2021, de <https://www.nyce.org.mx/wp-content/uploads/2020/10/PADRON-DE-EMPRESAS-DICTAMINADAS-EN-LA-NORMA-NMX-I-059-NYCE-MoProSoft-02-10-2020.pdf>
-- Chimal, B. (s. f.). NMX-I-059/02--2016 (MoProSoft). NYCE. Recuperado 7 de noviembre de 2021, de <https://www.nyce.org.mx/nmx-i-059-02-nyce-2016-moprosoft/>
+- EMPRESAS DICTAMINADAS EN LA NORMA NMX-I-059/02-NYCE (MoProSoft). (2020, 2 octubre). NYCE. Recuperado 7 de noviembre de 2021, de <https://www.nyce.org.mx/wp-content/uploads/2020/10/PADRON-DE-EMPRESAS-DICTAMINADAS-EN-LA-NORMA-NMX-I-059-NYCE-MoProSoft-02-10-2020.pdf>  
+- Chimal, B. (s. f.). NMX-I-059/02--2016 (MoProSoft). NYCE. Recuperado 7 de noviembre de 2021, de <https://www.nyce.org.mx/nmx-i-059-02-nyce-2016-moprosoft/>  
+- MoProSoft: Un modelo para mejorar la calidad del software en México. (2017, 1 noviembre). Conogasi. <https://conogasi.org/articulos/moprosoft-un-modelo-para-mejorar-la-calidad-del-software-en-mexico/>

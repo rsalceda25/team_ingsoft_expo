@@ -28,7 +28,19 @@ Estructura y procesos considerando tres niveles de organización: la Alta Direcc
 
 ## Procesos que conforman MoProSoft  
 ![Imagen procesos](https://conogasi.org/wp-content/uploads/2017/10/Procesos_MPS-1-768x465.jpg)  
+
+## Funcionalidad 
+El propósito del software es de dar un seguimiento del desarrollo  del software , con las características que se mencionan que su implementación es de estrategia en que cumplan con su objetivos de la norma de México.
+
+
+En su desarrollo de nuestra universidad  por parte de la facultad de economía para un comportamiento de la ingeniería del software con los diversos tipos de trabajos, los cuales se crearon  los modelos y estándares IEEE e ISO.  
+
+Por el motivo de sus multiples capas de  cada sistema.
+
+
+
 ## Estandares de calidad.
+
 #### Usos
 El uso de estándares de calidad en el proceso de construcción de proyectos informáticos es 
 indispensable actualmente, y el incremento de empresas dedicadas a este ámbito ofrece múltiples 
@@ -80,6 +92,18 @@ Específico para el desarrollo y mantenimiento de Software.
 * Debe tener un mecanismo de evaluación o certificación durante un periodo de vigencia especifica.
 * Aplicable como norma mexicana.
 
++ Está basado en normas ISO.
+(ISO 15504:2003, ISO 9000:2000)
+ 
++ Facilita la comprensión del Modelo utilizado (CMMI) 
+
++ Simplifica la relación entre el modelo de procesos y la organización.
+
++ Cuenta únicamente con 9 procesos evitando la fragmentación que se presenta en otros modelos.
+
++ Fácil de entender
+
+
 ## Desventajas
 * Define actividades de manera muy general.
 * Para asegurar la calidad de un producto y un proceso se requiere CMMI.
@@ -88,6 +112,15 @@ Específico para el desarrollo y mantenimiento de Software.
 * No comprensible para los modelos ISO 9000:2000.
 * Mejora los procesos Orientado al Objeto del negocio.
 * Proyectos para largos plazos.
+- Define actividades de manera muy general.
+
+- Para asegurar la calidad de un producto y un proceso se requiere CMMI.
+
+- Evaluaciones formales constantes.
+
+- Mejora los procesos Orientado al Objeto del negocio.
+
+- Proyectos para largos plazos.
 
 ## Ejemplos
  ***Algunas empresas que cuentan con el certificado MoProsoft son***  
@@ -118,3 +151,6 @@ El modelo de procesos MoProSoft, está diseñado para las Micro, Pequeñas y Med
 - EMPRESAS DICTAMINADAS EN LA NORMA NMX-I-059/02-NYCE (MoProSoft). (2020, 2 octubre). NYCE. Recuperado 7 de noviembre de 2021, de <https://www.nyce.org.mx/wp-content/uploads/2020/10/PADRON-DE-EMPRESAS-DICTAMINADAS-EN-LA-NORMA-NMX-I-059-NYCE-MoProSoft-02-10-2020.pdf>  
 - Chimal, B. (s. f.). NMX-I-059/02--2016 (MoProSoft). NYCE. Recuperado 7 de noviembre de 2021, de <https://www.nyce.org.mx/nmx-i-059-02-nyce-2016-moprosoft/>  
 - MoProSoft: Un modelo para mejorar la calidad del software en México. (2017, 1 noviembre). Conogasi. <https://conogasi.org/articulos/moprosoft-un-modelo-para-mejorar-la-calidad-del-software-en-mexico/>
+N.d.). Slideshare.Net. Retrieved November 4, 2021, from https://es.-slideshare.net/JosephAlvarado5B/ventajas-y-desventajas-de-moprosoft-18947981 
+ -N.d.-b). Unam.Mx:8080. Retrieved November 4, 2021, from http://www.ptolomeo.unam.mx:8080/xmlui/bitstream/handle/132.248.52.100/180/TESIS.pdf?sequence=12&isAllowed=y
+-idal, I. N. R., Adams, S., Moprosoft, Miranda, M. V., & Miranda, J. J. (n.d.). Ingeniería de Software II I FACULTAD DE INGENIERIA DE SISTEMAS, CÓMPUTO Y TELECOMUNICACIONES MOPROSOFT “Modelo de Procesos de Software” Ing. Nadia. Slideplayer.Es. Retrieved November 4, 2021, from https://slideplayer.es/slide/13421603/

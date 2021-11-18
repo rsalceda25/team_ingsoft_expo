@@ -13,7 +13,9 @@
     - Rodriguez Librado Jose Isaias
     - Lozano Pérez Johan Andrés
     - Salceda Solórzano Román Said
+    - Lopez Padilla Noe
 - **Correos**:  
     - 316026239@pcpuma.acatlan.unam.mx
     - 420098597@pcpuma.acatlan.unam.mx
     - 316347460@pcpuma.acatlan.unam.mx
+    - 092043033@pcpuma.acatlan.unam.mx

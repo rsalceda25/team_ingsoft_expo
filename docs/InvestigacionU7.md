@@ -4,13 +4,21 @@
         <span style="color: black;font-size: 26px;">FACULTAD DE ESTUDIOS SUPERIORES ACATLÁN</span>
     </div>
     <img src="/archivos/index/fesa.png" alt="drawing" width="200" style="width: 25%;"/>
+
+   
+        
 </div>
 
-# MoProsoft  
-## ¿Qué es MoProSoft?  
+# ¿Qué es MoProSoft?
+Es un modelo para el desarrollo y mantenimiento de software que está enfocado en procesos considerando la estructura básica de una empresa.
+Moprosoft considera que los modelos de evaluación y mejora CMMI e ISO/IEC 15504 no resultan apropiados para empresas pequeñas y medianas de desarrollo y mantenimiento de software. Sobre las áreas de procesos de los niveles 2 y 3 del modelo SW-CMM e inspirándose en el marco de ISO/IEC 15504 se ha desarrollado este modelo.
+
+## ¿Cómo surge MoProSoft?
+Moprosoft fue desarrollado por expertos mexicanos que recopilaron las experiencias exitosas de la industria de software a nivel mundial, y las adaptaron a las necesidades y características de las pequeñas y medianas industrias mexicanas (PYMEs) desarrolladoras de software.
+Desarrollado por la Asociación Mexicana para la Calidad en Ingeniería de Software a través de la Facultad de Contaduría Y Administración de la Universidad Nacional Autónoma de México (UNAM) y a solicitud de la Secretaría de Economía para obtener una norma mexicana que resulte apropiada a las características de tamaño de la gran mayoría de empresas mexicanas de desarrollo y mantenimiento de software
 
 ## Estructura  y procesos   
-Es un modelo para el desarrollo y mantenimiento de software que está enfocado en procesos considerando la estructura básica de una empresa, considerando tres niveles de organización: la Alta Dirección, Gerencia y Operación, de tal manera que el modelo pretende apoyar a las empresas de desarrollo y/o mantenimiento de software en la estandarización de sus prácticas, en la evaluación de su efectividad y en la integración de la mejora continua
+Estructura y procesos considerando tres niveles de organización: la Alta Dirección, Gerencia y Operación, de tal manera que el modelo pretende apoyar a las empresas de desarrollo y/o mantenimiento de software en la estandarización de sus prácticas, en la evaluación de su efectividad y en la integración de la mejora continua
 
 + Alta Dirección: contiene el proceso de Gestión de Negocio  
 
